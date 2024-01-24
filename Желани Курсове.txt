@@ -1,0 +1,12 @@
+1. JS Advanced (само курса, а не целия модул).
+
+2. JS Applications (курса).
+
+3. React JS (курса).
+
+4. Algorithms Fundamentals with Java - май 2023 (на запис)
+
+5. Algorithms Advanced with Java
+
+6. Data Structures - Java
+
